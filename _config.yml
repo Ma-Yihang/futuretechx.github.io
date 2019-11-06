@@ -78,7 +78,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "You will when you believe,<br>不管刮风下雨，太阳照常升起🌞"
+sidebar-about-description: "You will when you believe,<br>真正的大师永远怀着一颗学徒的心"
 sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 

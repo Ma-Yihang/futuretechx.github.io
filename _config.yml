@@ -1,5 +1,5 @@
 # Site settings
-title: Hux Blog
+title: FutureTechx
 SEOTitle: 小马的博客 | Go Blog
 header-img: img/home-bg.jpg
 email: jianchao.ma@outlook.com
@@ -72,7 +72,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: futuretechx.com
 
 
 

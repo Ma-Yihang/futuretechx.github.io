@@ -1,7 +1,13 @@
 ---
-title: python 迭代器和生成器
-tags: python,迭代器，生成器
-grammar_cjkRuby: true
+layout:     post
+title:      python 迭代器和生成器
+subtitle:    "python,迭代器，生成器"
+date:       2018-10-09
+author:     Cosmo-Ma
+header-img: img/post-bg-2015.jpg
+catalog: true
+tags:
+    - Python
 ---
 ### 一 迭代器
 先看一段代码，如下：

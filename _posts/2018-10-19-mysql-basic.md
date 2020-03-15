@@ -3,6 +3,18 @@ title: mysql 数据库（二）数据库的基本操作
 tags: 用户管理，添加权限，创建，显示，使用数据库
 grammar_cjkRuby: true
 ---
+---
+layout:     post
+title:      mysql 数据库（二）数据库的基本操作
+subtitle:    "\"用户管理，添加权限，创建，显示，使用数据库\""
+date:       2018-10-19
+author:     Cosmo-Ma
+header-img: img/post-bg-2015.jpg
+catalog: true
+tags:
+    - mysql
+---
+
 #### 一 数据库操作
 1 显示数据库：`show databases;`
 ![enter description here](./images/1546673531355.png)

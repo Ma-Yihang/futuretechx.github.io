@@ -6,3 +6,7 @@
 客户端通过负载均衡器向一个服务发送请求，这个负载均衡器会查询服务注册表，并将请求路由到可用的服务实例上。服务实例在服务注册表上被注册和注销(Consul Template+Nginx，kubernetes+etcd)。
 ![image](https://user-images.githubusercontent.com/34125846/114561643-533ae080-9ca0-11eb-9fe2-dfd8fd56c9be.png)
 
+## 客户端和服务端的区别
+![image](https://user-images.githubusercontent.com/34125846/115241427-6132aa80-a153-11eb-852f-025f8522e881.png)
+## 服务发现Eureka的实现原理
+![image](https://user-images.githubusercontent.com/34125846/115243206-4103eb00-a155-11eb-8a36-222a7e34a722.png)

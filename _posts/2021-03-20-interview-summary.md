@@ -6,7 +6,7 @@
 go语言相关：
 - GMP模型
 - Chan的底层实现
-- https://i6448038.github.io/2019/04/11/go-channel/
+ https://i6448038.github.io/2019/04/11/go-channel/
 - Map的底层实现（腾讯电面）
 - 内存逃逸
 - 操作chan,已经关闭的的 chan 进行读写,会怎么样
